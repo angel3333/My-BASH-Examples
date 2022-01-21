@@ -12,7 +12,7 @@ function usage() {
 }
 
 LOC_SET=0	#0-location not set, use current location     1-location set
-STATS=0		#0-do not display statistics		          1-display statistics
+STATS=0		#0-do not display statistics		              1-display statistics
 
 while [ $# -gt 0 ]
 do
