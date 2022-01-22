@@ -5,7 +5,7 @@
 
 counter=0
 
-while [$counter -lt 50]; do
+while [ $counter -lt 50 ]; do
     let counter=counter+1
 
     name=$(nl users.txt | grep -w $counter | awk '{print $2}' | awk -F ',' '{print $1}')
