@@ -8,4 +8,4 @@
 
 # sed_fix_spaces_tabs script Demo:
 
-![BASH2](https://user-images.githubusercontent.com/32045473/150898140-952dc5df-8510-4460-a497-3a6bf0bd1cb8.png)
+![BASH2](https://user-images.githubusercontent.com/32045473/150898524-34bf8d42-4776-4243-9cef-0d00f2f62c59.png)
