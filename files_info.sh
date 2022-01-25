@@ -65,9 +65,9 @@ if [ "$EXT" != "" ]; then
   fi
 
   #count size of files with specific extension
-  ls -l $LOCATION | awk '/^-/' | grep "\.$EXT$" | awk -v stats=$STATS -f /home/user/bash/awk/script/size.awk
+  ls -l $LOCATION | awk '/^-/' | grep "\.$EXT$" | awk -v stats=$STATS -f /home/user/size.awk
 
 else
-  ls -l $LOCATION | awk '/^-/' | awk -v stats=$STATS -f /home/user/bash/awk/script/size.awk
+  ls -l $LOCATION | awk '/^-/' | awk -v stats=$STATS -f /home/user/size.awk
 
 fi
