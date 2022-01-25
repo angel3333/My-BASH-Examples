@@ -1,3 +1,5 @@
+# ./spaces.sed [file-path] [-f | --fix] [-h | --help]
+
 function usage() {
   echo "USAGE: $0 [file-path] [-f | --fix] [-h | --help]"
   exit 1
