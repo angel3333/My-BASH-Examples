@@ -12,4 +12,4 @@
 
 # command_substitution script Demo:
 
-![Screenshot at 2022-12-15 02-13-40](https://user-images.githubusercontent.com/32045473/207756559-e05b15e1-4dc9-4e35-bbd9-3791d3dd2fb2.png)
+
