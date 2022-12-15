@@ -9,3 +9,6 @@
 # sed_fix_spaces_tabs script Demo:
 
 ![BASH2](https://user-images.githubusercontent.com/32045473/150898524-34bf8d42-4776-4243-9cef-0d00f2f62c59.png)
+
+# command_substitution script Demo:
+
