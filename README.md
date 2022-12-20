@@ -10,6 +10,6 @@
 
 ![BASH2](https://user-images.githubusercontent.com/32045473/150898524-34bf8d42-4776-4243-9cef-0d00f2f62c59.png)
 
-# 🕵️‍♀️🕵👩‍🚀command_substitution script Demo:
+# 🕵️‍♀️👩‍🚀💼command_substitution script Demo:
 
 ![Screenshot at 2022-12-15 02-30-15](https://user-images.githubusercontent.com/32045473/207758663-88a2b844-f9cb-46c3-9145-6baa05308d0f.png)
