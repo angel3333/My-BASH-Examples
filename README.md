@@ -1,4 +1,4 @@
-# you_are_not_root script Demo:
+# :ninja:you_are_not_root script Demo:
 
 ![BASH](https://user-images.githubusercontent.com/32045473/150659916-57cffb76-ba0d-4e33-bbd3-77b1a0450a2a.png)
 
