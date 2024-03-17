@@ -13,3 +13,7 @@
 # 🕵️‍♀️👩‍🚀💼command_substitution script Demo:
 
 ![Screenshot at 2022-12-15 02-30-15](https://user-images.githubusercontent.com/32045473/207758663-88a2b844-f9cb-46c3-9145-6baa05308d0f.png)
+
+# 🔐🔑🔒🗝️passgen script Demo:
+
+![BASH3](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/ff81809a-4723-47e1-8d8a-296bee49588a)
