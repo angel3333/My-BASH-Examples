@@ -16,5 +16,4 @@
 
 # 🔐🔑🔒🗝️passgen script Demo:
 
-![Capture](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/a545d7e4-c76e-4b44-82e2-b42ecc736209)
-
+![Screenshot_2024-04-27_23-12-24](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/ab0ac06c-47a6-4853-b04e-1354f800fc4b)
