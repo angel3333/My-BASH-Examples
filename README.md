@@ -1,6 +1,6 @@
 # 🔐🔑🔒🗝️passgen script Demo:
 
-![Screenshot_2024-04-27_23-12-24](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/ab0ac06c-47a6-4853-b04e-1354f800fc4b)
+![Screenshot_2024-04-28_22-32-54](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/63c4c9fa-7548-40d2-bba8-2ac05bffb3b0)
 
 # :ninja:you_are_not_root script Demo:
 
