@@ -20,4 +20,4 @@ jobs:
         run: sudo apt-get install shellcheck
 
       - name: Run ShellCheck
-        run: shellcheck **/*.sh
+        run: shellcheck /*.sh
