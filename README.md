@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment)
+[![ShellCheck](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml)
 # 🔐🔑🔒🗝️passgen script Demo:
 
 ![Screenshot_2024-04-28_22-32-54](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/63c4c9fa-7548-40d2-bba8-2ac05bffb3b0)
