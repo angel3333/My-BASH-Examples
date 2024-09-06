@@ -20,5 +20,6 @@ jobs:
         run: sudo apt-get install shellcheck
 
       - name: Run ShellCheck
-        run: shellcheck /*.sh
-        
+        run: |
+          # Find all .sh files and run ShellCheck on them
+          find . -type f -name "*.sh" -print0 | xargs -0 shellcheck
