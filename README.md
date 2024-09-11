@@ -1,3 +1,5 @@
+# BASH Examples
+[![GitGuardian scan](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/gitguardian.yml/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/gitguardian.yml)
 [![pages-build-deployment](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment)
 [![ShellCheck](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml)
 ![GitHub Release](https://img.shields.io/github/v/release/meleksabit/My-BASH-Examples)
