@@ -1,7 +1,7 @@
 [![GitGuardian scan](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/gitguardian.yml/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/gitguardian.yml)
 [![pages-build-deployment](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/pages/pages-build-deployment)
 [![ShellCheck](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/meleksabit/My-BASH-Examples/actions/workflows/shellcheck.yml)
-![GitHub Release](https://img.shields.io/github/v/release/meleksabit/My-BASH-Examples)
+[![GitHub Release](https://img.shields.io/github/v/release/meleksabit/My-BASH-Examples)](https://github.com/meleksabit/My-BASH-Examples/releases)
 # 🔐🔑🔒🗝️passgen script Demo:
 
 ![Screenshot_2024-04-28_22-32-54](https://github.com/meleksabit/My-BASH-Examples/assets/32045473/63c4c9fa-7548-40d2-bba8-2ac05bffb3b0)
