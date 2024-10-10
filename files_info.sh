@@ -11,43 +11,41 @@ function usage() {
   exit 1
 }
 
-LOC_SET=0	#0-location not set, use current location     1-location set
-STATS=0		#0-do not display statistics		              1-display statistics
+LOC_SET=0 #0-location not set, use current location     1-location set
+STATS=0   #0-do not display statistics		              1-display statistics
 
-while [ $# -gt 0 ]
-do
+while [ $# -gt 0 ]; do
   case $1 in
-    -l|--location ) 
-	LOCATION="$2"
-	if ! [ -d "$LOCATION" ]; then
-	  usage
-	fi
-	LOC_SET=1
-	shift
-	shift
-	;;
+  -l | --location)
+    LOCATION="$2"
+    if ! [ -d "$LOCATION" ]; then
+      usage
+    fi
+    LOC_SET=1
+    shift
+    shift
+    ;;
 
-    -e|--extension )
-	EXT="$2"
-	shift
-	shift
-	;;
+  -e | --extension)
+    EXT="$2"
+    shift
+    shift
+    ;;
 
-    -s|--stats )
-	STATS=1
-	shift
-	;;
+  -s | --stats)
+    STATS=1
+    shift
+    ;;
 
-    -h|--help )
-	shift
-	usage
-	;;
+  -h | --help)
+    shift
+    usage
+    ;;
 
-    * )
-	usage
-	;;
+  *)
+    usage
+    ;;
   esac
-
 
 done
 
@@ -65,9 +63,9 @@ if [ "$EXT" != "" ]; then
   fi
 
   #count size of files with specific extension
-  ls -l $LOCATION | awk '/^-/' | grep "\.$EXT$" | awk -v stats=$STATS -f /home/user/size.awk
+  ls -l $LOCATION | awk '/^-/' | grep "\.$EXT$" | awk -v stats=$STATS -f size.awk
 
 else
-  ls -l $LOCATION | awk '/^-/' | awk -v stats=$STATS -f /home/user/size.awk
+  ls -l $LOCATION | awk '/^-/' | awk -v stats=$STATS -f size.awk
 
 fi
