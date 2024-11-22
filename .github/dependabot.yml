@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-# Define update settings for GitHub Actions dependencies
+  # Define update settings for GitHub Actions dependencies
   # Configure for main branch
   - package-ecosystem: "github-actions" # Checks for updates to GitHub Actions in workflows
     directory: ".github/workflows"      # Root directory for GitHub Actions workflows
@@ -15,5 +15,5 @@ updates:
       - "meleksabit"
     commit-message:
       prefix: "chore"
-    target-branch: "main"
+    target-branch: "master"
     labels: ["dependencies", "weekly-update"] 
